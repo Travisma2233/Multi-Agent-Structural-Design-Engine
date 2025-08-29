@@ -1,0 +1,7 @@
+ACI 318-19 Simplified Clauses:
+
+Clause 9.6.1.2: For non-prestressed beams, minimum reinforcement area (As,min) shall be the greater of (a) and (b).
+(a) (3 * sqrt(f'c) / fy) * bw * d
+(b) (200 / fy) * bw * d
+
+Clause 22.2.2.4: Nominal shear strength (Vc) for non-prestressed members shall be calculated by...
